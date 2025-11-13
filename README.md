@@ -20,4 +20,4 @@
 <img height="50" width="50" src="https://www.svgrepo.com/show/374169/vscode2.svg"/> <img height="50" width="50" src="https://www.svgrepo.com/show/353906/intellij-idea.svg"/> <img height="50" width="50" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>  <img height="50" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" /> 
 
 ## Let’s stay connected 💬
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abishek-n-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_.mr_black_heart.__/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](in/abishek-n-r-504bb0377) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_.mr_black_heart.__/)
