@@ -1,7 +1,7 @@
-<h1 class="gradient-text">Hi there 👋 It's me Abishek</h1>
+<h1 align="center">✨Hi there 👋 It's me Abishek✨</h1>
 
 ## 👨‍💻 About Me:
-<img align="right" width="490" height="380" src="https://media.licdn.com/dms/image/v2/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1663786260509?e=2147483647&v=beta&t=6QuLnLPoBKqGAvw-Dttz-VuDJV0jLOPmcAhJDoFbAfA">
+<img align="right" width="510" height="380" src="https://media.licdn.com/dms/image/v2/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1663786260509?e=2147483647&v=beta&t=6QuLnLPoBKqGAvw-Dttz-VuDJV0jLOPmcAhJDoFbAfA">
 
 - 🎓 Student & aspiring developer <br>
 - 💻 Interested in Java and problem-solving <br>
