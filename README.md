@@ -16,7 +16,7 @@
 
 ### 🛠️ Technologies & Tools I Love
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /><img height="50" width="50" src="https://www.svgrepo.com/show/354238/python.svg" /> <img height="50" width="50" src="https://www.svgrepo.com/show/303654/java-logo.svg" /> <img height="50" width="50" src="https://www.svgrepo.com/show/349402/html5.svg" /> <img height="50" width="50" src="https://www.svgrepo.com/show/349330/css3.svg" /> 
-<img height="50" width="50" src="https://www.svgrepo.com/show/452045/js.svg"/><img height="50" width="50" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"/> 
+<img height="50" width="50" src="https://www.svgrepo.com/show/452045/js.svg"/><img height="50" width="50" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"/> <img height="5000" width="75" src="https://insource.io/images/posts/spring-boot-t.png"/>
 <img height="50" width="50" src="https://www.svgrepo.com/show/374169/vscode2.svg"/> <img height="50" width="50" src="https://www.svgrepo.com/show/353906/intellij-idea.svg"/> <img height="50" width="50" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>  <img height="50" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" /> 
 
 ## Let’s stay connected 💬
